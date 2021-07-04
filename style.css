@@ -75,6 +75,11 @@ section{
     background-position: left;
 }
 
+footer{
+    text-align: center;
+    color: brown;
+    
+}
 
 
 
@@ -109,6 +114,13 @@ section{
    .single-experience{
        box-shadow: none;
    }
+
+   footer{
+       margin-top: 800px;
+       color: darkmagenta;
+   }
 }
+
+
 
 
