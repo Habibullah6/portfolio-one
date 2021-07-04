@@ -75,12 +75,6 @@ section{
     background-position: left;
 }
 
-footer{
-    text-align: center;
-    color: brown;
-    
-}
-
 
 
 
@@ -115,11 +109,7 @@ footer{
        box-shadow: none;
    }
 
-   footer{
-       text-align: center;
-       margin-top: 800px;
-       color: darkmagenta;
-   }
+   
 }
 
 
