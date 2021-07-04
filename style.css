@@ -116,6 +116,7 @@ footer{
    }
 
    footer{
+       text-align: center;
        margin-top: 800px;
        color: darkmagenta;
    }
